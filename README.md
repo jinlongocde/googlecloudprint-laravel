@@ -19,7 +19,7 @@ Here, you can see how to use Google Cloud Print in Laravel project.
 Follw this instruction:
 > You should install google cloud print package in laravel.
 ```php
-compose require  bnbwebexpertise/laravel-google-cloud-print
+composer require  bnbwebexpertise/laravel-google-cloud-print
 ```
 > You should download credential.json of Google service account.
 ```json
